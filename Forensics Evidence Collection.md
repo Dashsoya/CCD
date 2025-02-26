@@ -47,12 +47,45 @@ To find out kernel version of Linux machine ($uname -a)
 <br>
 <br>
 
-# Disk Acquisition
+# Triage Image Acquisition
 
 <br>
 
-## Encrypted Drive Detection
+### Encrypted Drive Detection
 To check for existence of disk encryption before cutting the power. Once power is cut, disk gets encrypted, making data inaccessible.
 Best to perform live triage and disk acquisition while machine is still powered on if disk encryption is present.
 
 ($EDDv310.exe)
+
+
+## Windows Systems 
+
+### KAPE / GKAPE (Kroll Artifact Parser and Extractor)
+Tool to acquire triage image (a collection of important forensic artifacts such as files and directories)
+
+<br>
+<br>
+<br>
+
+## Linux Systems 
+
+### CyLR (Live Response Collection Tool)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Disk Image Acquisition
+
+<br>
+
+## Windows System 
+
+### FTK Imager (Forensic Toolkit Imager)
+
+
+## Linux System 
+
+### dd (Data Duplicator / Disk Dump)
