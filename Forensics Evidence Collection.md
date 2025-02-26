@@ -1,5 +1,7 @@
 # Memory Acquisition
 
+<br>
+
 ## Windows Memory Live Acquisition
 
 ### BelkaSoft
@@ -46,6 +48,8 @@ To find out kernel version of Linux machine ($uname -a)
 <br>
 
 # Disk Acquisition
+
+<br>
 
 ## Encrypted Drive Detection
 To check for existence of disk encryption before cutting the power. Once power is cut, disk gets encrypted, making data inaccessible.
