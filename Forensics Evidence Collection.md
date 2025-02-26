@@ -6,6 +6,8 @@
 To acquire memory image (RAM) of a live Windows machine.
 Ensure the USD Stick which holds the DumpIT tool is larger than the machine's RAM size as the acquired memory image will have the same size.
 
+($DumpIt.exe)
+
 <br>
 <br>
 <br>
