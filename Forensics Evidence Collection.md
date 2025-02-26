@@ -57,6 +57,9 @@ Best to perform live triage and disk acquisition while machine is still powered 
 
 ($EDDv310.exe)
 
+<br>
+<br>
+<br>
 
 ## Windows Systems 
 
@@ -84,7 +87,10 @@ Tool to acquire triage image (a collection of important forensic artifacts such 
 ## Windows System 
 
 ### FTK Imager (Forensic Toolkit Imager)
-
+Able to use it to acquire memory image, triage image and disk image.
+<br>
+<br>
+<br>
 
 ## Linux System 
 
