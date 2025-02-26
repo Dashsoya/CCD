@@ -6,6 +6,10 @@
 To acquire memory image (RAM) of a live Windows machine.
 Ensure the USD Stick which holds the DumpIT tool is larger than the machine's RAM size as the acquired memory image will have the same size.
 
+
+
+
+
 # Windows Memory Dead Acquisition
 RAM data is cleared.
 
@@ -18,6 +22,8 @@ Extends available system memory by allowing OS to move infrequent accessed memor
 
 ## CrashDumps
 .dmp file is created by OS containing the recorded state of the computer memory at the time of the crash.
+
+
 
 
 
