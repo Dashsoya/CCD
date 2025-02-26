@@ -4,7 +4,7 @@ Network Security Monitoring (NSM) tool that acts as both Intrusion Detection Sys
 Deployable on machines or gateways to perform live inspection of network traffic, or offline packet capture (PCAPS) for malicious activity.
 Able to analyse inbound/outbound traffic, alerts on threats and actively block attacks when configured as Intrusion Prvention System (IPS).
 
-#RITA (Real Intelligence Threat Analytics)
+# RITA (Real Intelligence Threat Analytics)
 
 Designed to identify Command-and-Control (C2) communications by analysing network traffic patterns based on behavioral anomalies (such as long-lived connections, beaconing intervals, DNS tunneling, traffic to known malicious IPs) instead of signature-based tools.
 
@@ -15,6 +15,6 @@ Designed to identify Command-and-Control (C2) communications by analysing networ
 To generate a report to .html file for visuals
 ($rita html-report "datasetname")
 
-#Sysmon (Systom Monitor)
+# Sysmon (Systom Monitor)
 Lightweight monitoring tool to enhance visibility and detection capabilities.
 Able to detect attacker actions such as malicious process execution and persistence mechanisms and more.
