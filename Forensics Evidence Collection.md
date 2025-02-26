@@ -88,6 +88,7 @@ Tool to acquire triage image (a collection of important forensic artifacts such 
 
 ### FTK Imager (Forensic Toolkit Imager)
 Able to use it to acquire memory image, triage image and disk image.
+
 <br>
 <br>
 <br>
@@ -103,5 +104,7 @@ Able to use it to acquire memory image, triage image and disk image.
 <br>
 
 # Mounting Forensic Images
+
+<br>
 
 ## Arsenal Image Mounter (AIM)
