@@ -1,4 +1,4 @@
-#Memory Acquisition
+# Memory Acquisition
 
 ## Windows Memory Live Acquisition
 
@@ -45,7 +45,7 @@ To find out kernel version of Linux machine ($uname -a)
 <br>
 <br>
 
-#Disk Acquisition
+# Disk Acquisition
 
 ## Encrypted Drive Detection
 To check for existence of disk encryption before cutting the power. Once power is cut, disk gets encrypted, making data inaccessible.
