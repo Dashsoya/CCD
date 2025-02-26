@@ -4,7 +4,7 @@ Network analysis tool that captures, analyzes and interpret network traffic.
 - Able to extract files from network captures to save and analyze specific object of interest. Useful when extracting files over HTTP, SMD and FTP protocols.
 
 # Zui (Also known as Brim)
-GUI Network traffic analysis tool, that is able to seamlessly integrate Zeek/Suricata/Wireshark, to simplify examining and investigating large network data sets.
+GUI Network traffic analysis tool that is able to seamlessly integrate Zeek/Suricata/Wireshark to simplify examining and investigating large network data sets.
 
 1. Examining Suricata alerts through deep packet inspection, traffic analysis and threat detection with Suricata's rule sets to identify suspicious acitivities.
 2. Once potential threats are identified, utilize Zeeks log to gain broader overview of network behaviour. Zeek is able to convert raw PCAP files to structured logs.
