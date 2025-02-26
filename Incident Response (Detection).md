@@ -15,6 +15,12 @@ Designed to identify Command-and-Control (C2) communications by analysing networ
 To generate a report to .html file for visuals
 ($rita html-report "datasetname")
 
-# Sysmon (Systom Monitor)
+# Sysmon (System Monitor)
 Lightweight monitoring tool to enhance visibility and detection capabilities.
 Able to detect attacker actions such as malicious process execution and persistence mechanisms and more.
+
+# Velociraptor
+Digital Forensics and Incident Response (DFIR) platform designed to collect data, monitor activity, and hunt threats across endpoints or entire networks.
+
+Able to collect artifact such as identifying evidence of file downloads which provides Downloaded filenames and path, Source URLS, Timestamps of download activity.
+Able to capture memory dump for an infected process to provide malware runtime behaviour (Injected code, Encryption keys) which are often missed by disk forensics. Dumps can then be analysed with tools such as Volatility or Rekall.
