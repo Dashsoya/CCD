@@ -10,6 +10,11 @@ GUI Network traffic analysis tool that is able to seamlessly integrate Zeek/Suri
 2. Once potential threats are identified, utilize Zeeks log to gain broader overview of network behaviour. Zeek is able to convert raw PCAP files to structured logs.
 3. After understanding broader communication behaviours, utilize Wireshark to deep dive into specific packets.
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Extracting IOCs & Objects
 
