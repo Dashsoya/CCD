@@ -95,3 +95,13 @@ Able to use it to acquire memory image, triage image and disk image.
 ## Linux System 
 
 ### dd (Data Duplicator / Disk Dump)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Mounting Forensic Images
+
+## Arsenal Image Mounter (AIM)
