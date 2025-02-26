@@ -1,7 +1,6 @@
 # Suricata
 
-Network Security Monitoring (NSM) tool that acts as both Intrusion Detection System (IDS) and Intrusion Prevention System (IPS).
-Deployable on machines or gateways to perform live inspection of network traffic, or offline packet capture (PCAPS) for malicious activity.
+Network Security Monitoring (NSM) tool that acts as both Intrusion Detection System (IDS) and Intrusion Prevention System (IPS).  Deployable on machines or gateways to perform live inspection of network traffic, or offline packet capture (PCAPS) for malicious activity.
 Able to analyse inbound/outbound traffic, alerts on threats and actively block attacks when configured as Intrusion Prvention System (IPS).
 
 # RITA (Real Intelligence Threat Analytics)
